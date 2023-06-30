@@ -15,4 +15,4 @@ Template báseado no código disponíbilizado pelo professor Rafael no seguinte 
 4- Acessar o navegar no endereço: http://localhost/Crud_PHP-main/
 
 
-## Dicionário de Dados esta no projeto na pasta -> IMAGENS
+## Nos arquivos do projeto encontra-se o Dicionario de Dados - Arquivo: dicionario_de_dados.png
